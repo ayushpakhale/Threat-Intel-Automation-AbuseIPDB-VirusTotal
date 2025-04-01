@@ -1,0 +1,5 @@
+requests==2.31.0
+pandas==2.1.4
+pymongo==4.6.1
+secure-smtplib==0.1.1
+email-validator==2.1.0.post1
